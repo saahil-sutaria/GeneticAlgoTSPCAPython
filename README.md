@@ -4,7 +4,10 @@ This code computes the shortest distance from a start city to endCity/startCity 
 The input given are the 27 cities from california and the distances to other cities.
 
 
-Generation=500
-elite_size =20
-population = 27 cities 
+Generation=500;
+
+elite_size =20;
+
+population = 27 cities;
+
 mutation =0.05
