@@ -13,3 +13,5 @@ population = 27 cities;
 popSize=100;
 
 mutation =0.05
+
+![](GeneticAlgoTSPCA/Screen Shot 2020-03-11 at 12.01.27 AM.png)
