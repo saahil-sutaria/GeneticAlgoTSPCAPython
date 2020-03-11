@@ -14,4 +14,4 @@ popSize=100;
 
 mutation =0.05
 
-![](GeneticAlgoTSPCA/Screen Shot 2020-03-11 at 12.01.27 AM.png)
+![](GeneticAlgoTSPCA/Screen%20Shot%202020-03-11%20at%2012.01.27%20AM.png)
